@@ -65,8 +65,8 @@ h1 span{
     color: #646363;
 }
 .fab{padding: 6px;border-radius: 50%;border: 1px solid #FFF;background: #fefefe;color: black;}
-.aboutme{height: 300px;box-sizing: border-box;background: #fdf9f9;border-bottom-left-radius: 10px;border-bottom-right-radius: 10px;}
-.passage{width: 37%;float: left;margin-top: 51px;margin-left: 37px;}
+.aboutme{height: 318px;box-sizing: border-box;background: #fdf9f9;border-bottom-left-radius: 10px;border-bottom-right-radius: 10px;}
+.passage{width: 41%;float: left;margin-left: 37px;}
 .passage h5{
     font-size: 23px;
 }
@@ -81,7 +81,7 @@ h1 span{
     border-width: 1px;
     height: 26px;
 }
-.info{float: right;margin-right: 309px;margin-top: 99px;}
+.info{float: right;margin-right: 309px;margin-top: 51px;}
 
 .info table{
 }
