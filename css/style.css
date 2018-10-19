@@ -47,6 +47,8 @@ h1 span{
     margin-top: 39px;
     box-sizing: border-box;
     margin-left: -289px;
+    border: solid #ffff;
+border-radius: 17px;
 }
 .name h2{float: right;margin-right: 304px;margin-top: 39px;padding: 19px;margin-bottom: 0;font-size: 46px;color: white;text-align: center;line-height: 29px;}
 .name span{font-size: 15px;}
