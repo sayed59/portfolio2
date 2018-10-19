@@ -73,7 +73,7 @@ h1 span{
 .passage h5 span{
     color: #40C887;
 }
-.passage a{
+.passage a{text-decoration: none;
 }
 .passage a input{
     background: #ffffff;
